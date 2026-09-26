@@ -15,7 +15,7 @@ A modern, high-performance domestic movie box office analytics platform. Built w
 
 ### Executive Overview & Rankings Table
 <img src="screenshots/Main_Page.png" width="400" alt="App Screenshot"/>
-![Dashboard Overview](screenshots/Main_Page.png)
+![Dashboard Overview](https://github.com/Lian-Mao/BO-Analytics/blob/main/screenshots/Main_Page)
 
 ### In-Depth Movie Drill-Down & Decay Curves
 ![Movie Drill Down](screenshots/Drilldown.png)
