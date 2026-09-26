@@ -168,7 +168,7 @@ Movie Dashboard/
 
 ---
 
-## 🔌 API Reference
+##  API Reference
 
 | Endpoint | Method | Parameters | Description |
 | :--- | :--- | :--- | :--- |
@@ -198,6 +198,6 @@ Movie Dashboard/
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
