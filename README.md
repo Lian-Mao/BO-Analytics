@@ -14,6 +14,7 @@ A modern, high-performance domestic movie box office analytics platform. Built w
 ## Preview
 
 ### Executive Overview & Rankings Table
+<img src="screenshots/Main_Page.png" width="400" alt="App Screenshot"/>
 ![Dashboard Overview](screenshots/Main_Page.png)
 
 ### In-Depth Movie Drill-Down & Decay Curves
